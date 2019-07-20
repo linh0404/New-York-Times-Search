@@ -9,7 +9,8 @@
     padding: 0;
 }
 
-.parameters {
+.parameters,
+.articles {
     background-color: black;
     color: white;
     margin-top: 0;
