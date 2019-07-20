@@ -1,15 +1,29 @@
 .jumbotron {
     text-align: center;
+    color: white;
+    background: black;
 }
 
 .inputbox {
     border: solid 1px black;
-    padding: 10px;
+    padding: 0;
 }
 
 .parameters {
-    padding-left: 15px;
     background-color: black;
     color: white;
     margin-top: 0;
+    padding: 10px;
+}
+
+.fa-newspaper-o {
+    color: white;
+}
+
+.form-group {
+    padding: 0 10px 0 10px;
+}
+
+.buttons {
+    padding: 10px;
 }
